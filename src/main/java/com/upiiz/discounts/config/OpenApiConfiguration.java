@@ -32,7 +32,7 @@ import org.springframework.context.annotation.Configuration;
                 ),
                 @Server(
                         description = "Servidor de producción",
-                        url = "Render"
+                        url = "https://wcbdf-rca-examen2.onrender.com"
                 )
         },
         tags = {
