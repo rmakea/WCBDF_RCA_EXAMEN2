@@ -1,7 +1,7 @@
-D:\Web Client\discounts\src\main\java\com\upiiz\discounts\config\OpenApiConfiguration.java
-D:\Web Client\discounts\src\main\java\com\upiiz\discounts\config\SecurityConfig.java
-D:\Web Client\discounts\src\main\java\com\upiiz\discounts\controllers\DiscountController.java
-D:\Web Client\discounts\src\main\java\com\upiiz\discounts\DiscountsApplication.java
-D:\Web Client\discounts\src\main\java\com\upiiz\discounts\entities\DiscountEntity.java
-D:\Web Client\discounts\src\main\java\com\upiiz\discounts\repository\DiscountRepository.java
-D:\Web Client\discounts\src\main\java\com\upiiz\discounts\services\DiscountService.java
+C:\Users\Raul\OneDrive\Escritorio\WebClient\CBDF_RCA_EXAMEN_02\discounts\src\main\java\com\upiiz\discounts\config\OpenApiConfiguration.java
+C:\Users\Raul\OneDrive\Escritorio\WebClient\CBDF_RCA_EXAMEN_02\discounts\src\main\java\com\upiiz\discounts\config\SecurityConfig.java
+C:\Users\Raul\OneDrive\Escritorio\WebClient\CBDF_RCA_EXAMEN_02\discounts\src\main\java\com\upiiz\discounts\controllers\DiscountController.java
+C:\Users\Raul\OneDrive\Escritorio\WebClient\CBDF_RCA_EXAMEN_02\discounts\src\main\java\com\upiiz\discounts\DiscountsApplication.java
+C:\Users\Raul\OneDrive\Escritorio\WebClient\CBDF_RCA_EXAMEN_02\discounts\src\main\java\com\upiiz\discounts\entities\DiscountEntity.java
+C:\Users\Raul\OneDrive\Escritorio\WebClient\CBDF_RCA_EXAMEN_02\discounts\src\main\java\com\upiiz\discounts\repository\DiscountRepository.java
+C:\Users\Raul\OneDrive\Escritorio\WebClient\CBDF_RCA_EXAMEN_02\discounts\src\main\java\com\upiiz\discounts\services\DiscountService.java
