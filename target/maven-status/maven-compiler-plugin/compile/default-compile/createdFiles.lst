@@ -1,0 +1,7 @@
+com\upiiz\discounts\repository\DiscountRepository.class
+com\upiiz\discounts\services\DiscountService.class
+com\upiiz\discounts\DiscountsApplication.class
+com\upiiz\discounts\config\OpenApiConfiguration.class
+com\upiiz\discounts\entities\DiscountEntity.class
+com\upiiz\discounts\config\SecurityConfig.class
+com\upiiz\discounts\controllers\DiscountController.class
